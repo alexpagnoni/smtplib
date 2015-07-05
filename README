@@ -1,0 +1,49 @@
+General information
+-------------------
+
+/***************************************
+** Filename.......: class.smtp.inc
+** Project........: SMTP Class
+** Version........: 1.00b
+** Last Modified..: 30 September 2001
+***************************************/
+
+
+
+License
+-------
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+	A working Ampoliros II platform installation.
+
+Clientside:
+	a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+Ampoliros official home page:
+	http://www.ampoliros.com
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.
